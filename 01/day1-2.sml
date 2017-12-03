@@ -28,16 +28,12 @@ fun halfwayAround (i: int, l: int) =
     end
 
 fun sumAround (i: int, l): int =
-	case (i = List.length l) of true =>  (case (List.last(l) = List.nth(l, 
-halfwayAround(i, List.length l))) of true => List.last(l)
-                                    																	 
-| false => 0
-                                          )
-                              | false => (case (List.nth(l, i) = List.nth(l, 
-halfwayAround(i, List.length l))) of true => List.nth(l, i) + sumAround(i + 1, l)
-                              																				  
-| false => sumAround(i + 1, l)
-                                          )
+	case (i = List.length l) of true =>  (case (List.last(l) = List.nth(l, halfwayAround(i, List.length l))) of true => List.last(l)
+                                                                                                            | false => 0
+                                        )
+                            | false => (case (List.nth(l, i) = List.nth(l, halfwayAround(i, List.length l))) of true => List.nth(l, i) + sumAround(i + 1, l)
+                              																				                                        | false => sumAround(i + 1, l)
+                                        )
 
 val intList = List.map charToInt inputList
 
