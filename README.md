@@ -30,14 +30,19 @@ My attempts at the Advent of Code. The extra challenge is that all of the challe
 24. Kotlin
 25. Rust
 
-## Language Experience Scale
+## Experience levels
 
-0 -> Have never heard of this language before.
-1 -> Have heard of it, never used it.
-2 -> Limited experience with language.
-3 -> Worked on small projects, or small discrete pieces of code.
-4 -> Worked on medium projects with others.
-5 -> Know the language like the back of my hand.
+**0:** Have never heard of this language before.
+
+**2:** Have heard of it, never used it.
+
+**4:** Limited experience with language.
+
+**6:** Worked on small projects, or small discrete pieces of code.
+
+**8:** Worked on medium projects with others.
+
+**10:** Know the language like the back of my hand.
 
 ## Other Repositories
 Here are some people doing the same challenge:
