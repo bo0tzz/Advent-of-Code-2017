@@ -8,4 +8,4 @@
 
 * https://tour.dlang.org/tour/en/welcome/welcome-to-d
 * https://dlang.org/phobos/index.html
-* https://learnxinyminutes.com/docs/d/
+* http://ddili.org/ders/d.en/index.html
