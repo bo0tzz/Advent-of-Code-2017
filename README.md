@@ -12,7 +12,7 @@ My attempts at the Advent of Code. The extra challenge is that all of the challe
 6. Scala
 7. D
 8. Python3
-9. Solidity
+9. ~~Solidity~~ Java (Solidity does not seem like a suitable language for these challenges)
 10. Go
 11. Ruby
 12. C
