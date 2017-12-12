@@ -15,7 +15,7 @@ My attempts at the Advent of Code. The extra challenge is that all of the challe
 9. ~~Solidity~~ Java (Solidity does not seem like a suitable language for these challenges)
 10. Go
 11. Ruby
-12. C
+12. ~~fuck C~~ Java
 13. OCaml
 14. PHP
 15. Haskell
